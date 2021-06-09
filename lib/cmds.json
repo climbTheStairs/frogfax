@@ -7,10 +7,10 @@
         "example": ["Frogs are really cool!"]
     },
     {
-        "name": "eval",
+        "name": "debug",
         "parameters": ["code to run"],
         "description": "Run JavaScript in the bot. Used for testing purposes only.",
-        "aliases": [],
+        "aliases": ["eval"],
         "example": ["channel.send(\"testing\")"]
     },
     {

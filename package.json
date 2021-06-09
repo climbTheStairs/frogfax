@@ -4,7 +4,7 @@
     "description": "I am incessant and unremitting in my endeavor to enlighten neophytes in their pursuit to achieve and consummate an exhaustive comprehension of the riveting mechanisms by which frogs operate and advance. Succeed in inveigling me into entering your guild and your satisfaction is assured.",
     "keywords": ["discord", "frog", "bot"],
     "homepage": "https://github.com/climbTheStairs/frogfax",
-    "license": "GPL-3.0-or-later",
+    "license": "AGPL-3.0-or-later",
     "author": "climbTheStairs",
     "main": "./lib/index.js",
     "repository": {

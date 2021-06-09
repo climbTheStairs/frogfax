@@ -25,13 +25,13 @@
         "added": "Successfully added! May your fact enlighten us all!",
         "description": "I am incessant and unremitting in my endeavor to enlighten neophytes in their pursuit to achieve and consummate an exhaustive comprehension of the riveting mechanisms by which frogs operate and advance. Succeed in inveigling me into entering your guild and your satisfaction is assured.",
         "dm": "wtf get out of my dms",
-        "help": "Thanks for being subscribed to FROG FACTS. To get a fact, send `${prefix}FACT`. To stop getting these messages, send `${prefix}STOP`.\nScroll down for a complete list of commands. All commands are case insensitive.\nThis bot was created by <@341652576657473536> and <@513995443408207872>. You can view the code [here](https://github.com/climbTheStairs/frogfax).",
+        "help": "Thanks for being subscribed to FROG FACTS. To get a fact, send `${prefix}FACT`. To stop getting these messages, send `${prefix}STOP`.\nScroll down for a complete list of commands. All commands are case insensitive.\nThis program was created by <@341652576657473536> and <@513995443408207872>. It is licensed under [GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html), and you can view the source [here](https://github.com/climbTheStairs/frogfax).",
         "interrupt": "That's cool...but do you know what's cooler? ${fact} Bet you didn't know that!",
         "ready": "Frogfax bot is ready! Prepare for some AWESOME FROG FACTS!",
         "removed": "Successfully removed! Was this really that bad?",
         "restored": "Fact successfully restored! Welcome back!",
         "view": "Here you go!",
-        "welcome": "@everyone It looks like you've signed up for FROG FACTS! To get a fact, send `${prefix}FACT`. To unsubscribe from this service, send `${prefix}UNSUBSCRIBE`. Thank you for using our service, and we hope you love frogs as much as we do!"
+        "welcome": "@everyone It looks like you've signed up for FROG FACTS! To get a fact, send `${prefix}FACT`. To unsubscribe from this service, send `${prefix}UNSUBSCRIBE`. To learn how to use this bot, send `${prefix}HELP`. Thank you for using our service, and we hope you love frogs as much as we do!"
     },
     "prefix": "uwu ",
     "presence": {
