@@ -1,0 +1,79 @@
+[
+    {
+        "name": "add",
+        "parameters": ["new fact"],
+        "description": "Add a new fact.",
+        "aliases": ["a", "+"],
+        "example": ["Frogs are really cool!"]
+    },
+    {
+        "name": "eval",
+        "parameters": ["code to run"],
+        "description": "Run JavaScript in the bot. Used for testing purposes only.",
+        "aliases": [],
+        "example": ["channel.send(\"testing\")"]
+    },
+    {
+        "name": "fact",
+        "parameters": [],
+        "description": "Learn a new frog fact!",
+        "aliases": ["f", "frogfax"],
+        "example": []
+    },
+    {
+        "name": "facts",
+        "parameters": ["number of facts"],
+        "description": "Learn *multiple* new frog facts!",
+        "aliases": ["fs"],
+        "example": ["4"]
+    },
+    {
+        "name": "help",
+        "parameters": [],
+        "description": "See a list of commands and information about the bot.",
+        "aliases": ["h", "?"],
+        "example": []
+    },
+    {
+        "name": "join",
+        "parameters": ["voice channel name"],
+        "description": "Join a voice channel. Why? *Why not?*",
+        "aliases": ["j"],
+        "example": ["General"]
+    },
+    {
+        "name": "remove",
+        "parameters": ["fact id", "reason for removal"],
+        "description": "Remove a fact by its id.",
+        "aliases": ["r", "-"],
+        "example": ["19", "Bad fact. Hate it."]
+    },
+    {
+        "name": "restore",
+        "parameters": ["fact id"],
+        "description": "Restore a removed fact by its id.",
+        "aliases": ["res", "unremove"],
+        "example": ["19"]
+    },
+    {
+        "name": "seek",
+        "parameters": ["fact id"],
+        "description": "Get a fact by its id.",
+        "aliases": ["s", "get"],
+        "example": ["19"]
+    },
+    {
+        "name": "stop",
+        "parameters": [],
+        "description": "Opt out of FROG FACTS and stop receiving these messages...or not.",
+        "aliases": ["unsub", "unsubscribe"],
+        "example": []
+    },
+    {
+        "name": "view",
+        "parameters": [],
+        "description": "Download a full list of all the facts.",
+        "aliases": ["v", "data"],
+        "example": []
+    }
+]

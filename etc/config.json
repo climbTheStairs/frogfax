@@ -1,0 +1,44 @@
+{
+    "allowedEval": ["513995443408207872"],
+    "avatar": "acb12cca1884bf65850879a5c1423686",
+    "embedClr": "#33cc33",
+    "errs": {
+        "addInvalid": "WHOA! That's not a frog fact!",
+        "cmdInvalid": "This command does not exist. Maybe you should read the help page.",
+        "eval": "You suck at coding!",
+        "factsNumInvalid": "You requested *way* too many facts! Are you drunk?",
+        "factsNumMissing": "You must specify the number of facts you want. How else am I supposed to know? Telepathy?",
+        "joinChannelMissing": "I'm sorry, *where* do you want me to go?",
+        "joinInvalid": "I can't join that channel... Guess you'll have to live without me :sob:",
+        "noFacts": "There are no facts...at *all*! What happened?",
+        "permission": "You aren't allowed to do that!",
+        "removeAlreadyRemoved": "You can't remove a quote that's already been removed. Even if you could, what's the point?",
+        "removeMissing": "The quote you're trying to remove doesn't exist. Do you even know what you're doing?",
+        "removeReasonMissing": "Please provide a reason for this removal.",
+        "restoreActive": "You can't restore a quote hasn't been removed. Even if you could, what's the point?",
+        "restoreMissing": "The quote you're trying to restore doesn't even exist. Wtf?!",
+        "seekMissing": "I can't find that. Go look for it youself.",
+        "unknown": "An unexpected error occurred and your action was not completed. Whoever wrote me must have been a real shitty programmer!"
+    },
+    "id": "785757347229204482",
+    "info": {
+        "added": "Successfully added! May your fact enlighten us all!",
+        "description": "I am incessant and unremitting in my endeavor to enlighten neophytes in their pursuit to achieve and consummate an exhaustive comprehension of the riveting mechanisms by which frogs operate and advance. Succeed in inveigling me into entering your guild and your satisfaction is assured.",
+        "dm": "wtf get out of my dms",
+        "help": "Thanks for being subscribed to FROG FACTS. To get a fact, send `${prefix}FACT`. To stop getting these messages, send `${prefix}STOP`.\nScroll down for a complete list of commands. All commands are case insensitive.\nThis bot was created by <@341652576657473536> and <@513995443408207872>. You can view the code [here](https://github.com/climbTheStairs/frogfax).",
+        "interrupt": "That's cool...but do you know what's cooler? ${fact} Bet you didn't know that!",
+        "ready": "Frogfax bot is ready! Prepare for some AWESOME FROG FACTS!",
+        "removed": "Successfully removed! Was this really that bad?",
+        "restored": "Fact successfully restored! Welcome back!",
+        "view": "Here you go!",
+        "welcome": "@everyone It looks like you've signed up for FROG FACTS! To get a fact, send `${prefix}FACT`. To unsubscribe from this service, send `${prefix}UNSUBSCRIBE`. Thank you for using our service, and we hope you love frogs as much as we do!"
+    },
+    "prefix": "uwu ",
+    "presence": {
+        "activity": {
+            "name": "neophytes achieve and consummate an exhaustive comprehension of the riveting mechanisms by which frogs operate and advance",
+            "type": "WATCHING"
+        },
+        "status": "idle"
+    }
+}
