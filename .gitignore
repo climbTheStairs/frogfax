@@ -1,7 +1,4 @@
-/backup/
-/etc/token.txt
-/node_modules/
-/srv/img/*
-/srv/facts.json
-/test/
-!/srv/img/avatar.jpg
+etc/token.txt
+node_modules/
+srv/img/
+srv/facts.json
