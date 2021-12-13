@@ -33,7 +33,7 @@
         "view": "Here you go!",
         "welcome": "@everyone It looks like you've signed up for FROG FACTS! To get a fact, send `${prefix}FACT`. To unsubscribe from this service, send `${prefix}UNSUBSCRIBE`. To learn how to use this bot, send `${prefix}HELP`. Thank you for using our service, and we hope you love frogs as much as we do!"
     },
-    "interruptChance": 250,
+    "interruptChance": 500,
     "prefix": "uwu ",
     "presence": {
         "activity": {
